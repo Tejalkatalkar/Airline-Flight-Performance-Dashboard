@@ -18,8 +18,10 @@
 1.
 
 **Snapshots:**
+![image](https://github.com/user-attachments/assets/248a2d8f-0895-4c63-af7a-5f38ef734cdf)
 
 ![image](https://github.com/user-attachments/assets/1a4dacea-97ec-4bdb-bafa-076508f0c402)
+
 ![image](https://github.com/user-attachments/assets/248a2d8f-0895-4c63-af7a-5f38ef734cdf)
 
 **How to open**:
