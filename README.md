@@ -22,8 +22,6 @@
 
 ![image](https://github.com/user-attachments/assets/1a4dacea-97ec-4bdb-bafa-076508f0c402)
 
-![image](https://github.com/user-attachments/assets/248a2d8f-0895-4c63-af7a-5f38ef734cdf)
-
 **How to open**:
 
 1.Download and Install Power BI Desktop.If you don't have Power BI Desktop installed, download it from Power BI Desktop Download.
