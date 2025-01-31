@@ -19,13 +19,14 @@
 Q1.Which airline has the highest total price among all Airlines?
 Q2.What percentage of the total ticket price comes from Business vs. Economy class passengers?
 Q3.Which airline has the longest or shortest average flight duration?
-Q4.What is the count of flights for each combination o source and destination city?
-Q5.How does the total price of flights vary across different flight durations?
-Q6.What are the counts of flights based on their departure times
-Q7.What is the sum of the price for Business and Economy class flights
-Q8.What is the sum of the price based on the number of days left until the flight?
-Q9.What is the average price of flights based on the number of stops?
-Q10.
+Q4.Which airline generates the highest total ticket revenue?
+Q5.What is the count of flights for each combination o source and destination city?
+Q6.How does the total price of flights vary across different flight durations?
+Q7.What are the counts of flights based on their departure times
+Q8.What is the sum of the price for Business and Economy class flights
+Q9.What is the sum of the price based on the number of days left until the flight?
+Q10.What is the average price of flights based on the number of stops?
+
 
 **Snapshots:**
 
