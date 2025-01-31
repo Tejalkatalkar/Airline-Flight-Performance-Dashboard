@@ -15,7 +15,13 @@
 2.Airline Flight Performance.csv
 
 **Questions:**
-1.
+
+Q1.Which airline has the highest total price among all Airlines?
+Q2.What percentage of the total ticket price comes from Business vs. Economy class passengers?
+Q3.Which airline has the longest or shortest average flight duration?
+Q4.What is the count of flights for each combination o source and destination city?
+Q5.
+
 
 **Snapshots:**
 
